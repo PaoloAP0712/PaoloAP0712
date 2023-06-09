@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PaoloAP0712
+- 👀 I’m interested in learning more of programation
+- 🌱 I’m currently learning html, css, java script, php, react and a lot of resources on Web Development
+- 💞️ I’m looking to collaborate on Web Development
+- 📫 How to reach me: ig @webPaletto
